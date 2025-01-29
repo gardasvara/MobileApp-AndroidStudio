@@ -1,0 +1,156 @@
+<resources>
+    <string name="app_name">BottomNavigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_universitas">Universitas</string>
+    <string name="title_notifications">Pendidikan</string>
+    <string name="title_profile">Profile</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="data_name">Nama Universitas</string>
+    <string name="data_desc">Deskripsi Universitas</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="gambarbebas">gambarbebas</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Text1">Home</string>
+    <string name="text2">Halo! Selamat datang di aplikasi\nUniversitas di Indonesia</string>
+    <string name="text3">Aplikasi ini adalah aplikasi bottom navigation yang memungkinkan pengguna untuk menjelajahi daftar universitas. Setiap entri universitas menampilkan gambar universitas, nama universitas, dan deskripsi singkat. Pengguna dapat menavigasi melalui daftar universitas dan memilih salah satu untuk melihat detailnya. Detail universitas mencakup gambar, nama, deskripsi lengkap, serta tautan ke situs web universitas, halaman Wikipedia, dan peta lokasi universitas. Aplikasi ini dirancang untuk memberikan informasi tentang berbagai universitas dan memudahkan pengguna untuk mengakses informasi lebih lanjut tentang masing-masing universitas melalui tautan yang disediakan</string>
+    <string name="text_profile">This is profile fragment</string>
+    <string name="detail_sekolah">Detail sekolah</string>
+    <string name="text_tahun_smp">2016–2019\nSMPN 1 Karanganyar</string>
+    <string name="text_tahun_sma">2019–2022\nSMAN 1 Surakarta</string>
+    <string name="text_tahun_uns">2022-Sekarang\nUniversitas Sebelas Maret</string>
+    <string name="text_pendidikan_smp">Akreditasi : A\nJl. Ir. Juanda No.18, Beji, Bejen, Kec. Karanganyar, Kabupaten Karanganyar, Jawa Tengah 57716</string>
+    <string name="text_pendidikan_sma">Jurusan MIPA\nAkreditasi : A\nJl. Monginsidi No.40, Gilingan, Banjarsari, Surakarta, Jawa Tengah, Indonesia</string>
+    <string name="text_pendidikan_uns">Program Studi Informatika\nFakultas Teknologi Informasi dan Sains Data\nAkreditasi : Unggul\nKentingan Jl. Ir. Sutami No.36, Jebres, Kec. Jebres, Kota Surakarta, Jawa Tengah 57126</string>
+    <string name="text4">Connect With Me!</string>
+    <string name="view_detail_project">View Detail Project</string>
+    <string name="category_name" />
+    <string name="category_description" />
+    <string name="backtohome">Back to Home</string>
+    <string name="title_personalinformation">Profile Information</string>
+    <string name="profilename">Gardasvara Mistortoify</string>
+    <string name="profilenim">L0122068</string>
+    <string name="profileprodi">Informatika / 2022</string>
+    <string name="profilefakultas">Fakultas Teknologi Informasi dan Sains Data</string>
+    <string name="profileuniversitas">Univeristas Sebelas Maret</string>
+    <string name="profileemail">alovegardasvara@gmail.com</string>
+    <string name="personaldescription">Saya adalah seorang mahasiswa sarjana yang mengambil jurusan Informatika, dengan minat yang besar terhadap pembuatan aplikasi web yang interaktif dan responsif. Tujuan saya adalah menguasai komputasi dan berkontribusi dalam menyelesaikan masalah manusia melalui teknologi. Saya adalah seseorang yang cepat belajar, terus memperluas keterampilan saya, dan bersemangat dalam lingkungan kolaboratif untuk menciptakan proyek-proyek yang luar biasa.</string>
+    <string name="share_button">Share</string>
+    <string name="back_button">Back</string>
+    <string name="website">Website</string>
+    <string name="wikipedia">Wikipedia</string>
+    <string name="maps">GoogleMaps</string>
+
+    <string-array name="data_name">
+        <item>Universitas Indonesia</item>
+        <item>Universitas Gajah Mada</item>
+        <item>Institut Teknologi Bandung</item>
+        <item>Universitas Hasanudin</item>
+        <item>Universitas Padjajaran</item>
+        <item>Universitas Airlangga</item>
+        <item>Universitas Sebelas Maret</item>
+        <item>Universitas Brawijaya</item>
+        <item>Universitas Negeri Semarang</item>
+        <item>Institut Teknologi Sepuluh November</item>
+        <item>Universitas Muhammadiyah Surakarta</item>
+        <item>Telkom University</item>
+        <item>Institut Pertanian Bogor</item>
+        <item>Universitas Diponegoro</item>
+        <item>Universitas Tarumanegara</item>
+    </string-array>
+
+    <string-array name="data_desc">
+        <item>Universitas Indonesia (disingkat UI) adalah perguruan tinggi di Indonesia. Kampus utamanya terletak di bagian Utara dari Depok, Jawa Barat tepat di perbatasan antara Depok dan wilayah Jakarta Selatan, sementara kampus utama lainnya terdapat di Salemba, Jakarta Pusat. UI merupakan institusi pendidikan tinggi tertua di Indonesia. Beberapa perguruan tinggi negeri terkemuka di Indonesia seperti Institut Teknologi Bandung, Universitas Airlangga, Institut Pertanian Bogor, Universitas Hasanuddin, Universitas Negeri Jakarta, dan Politeknik Negeri Jakarta pada awalnya merupakan bagian dari UI hingga kemudian memisahkan diri menjadi institusi tersendiri. UI juga merupakan salah satu dari tiga perguruan tinggi terbaik di Indonesia bersama dengan Universitas Gadjah Mada dan Institut Teknologi Bandung.\nCikal-bakal terbentuknya Universitas Indonesia adalah ketika pemerintah kolonial Belanda mendirikan sebuah sekolah yang bertujuan untuk menghasilkan asisten dokter tambahan yang memegang sertifikat untuk melakukan perawatan-perawatan tingkat dasar serta mendapatkan gelar Dokter Jawa (Javanese doctor). Secara resmi, UI memulai kegiatannya pada 2 Februari 1950 dengan presiden (saat ini disebut rektor) pertamanya Ir. R.M. Pandji Soerachman Tjokroadisoerio. Tanggal tersebut dijadikan hari kelahiran Universitas Indonesia.</item>
+        <item>Universitas Gadjah Mada (UGM) adalah perguruan tinggi negeri di Daerah Istimewa Yogyakarta, Indonesia. Universitas Gadjah Mada merupakan perguruan tinggi pertama yang didirikan oleh Pemerintah Indonesia setelah Indonesia merdeka. UGM berdiri pada tanggal 19 Desember 1949 dengan mengukuhkan Peraturan Pemerintah Nomor 23 Tahun 1949 tentang Peraturan Tentang Penggabungan Perguruan Tinggi Menjadi Universiteit tanggal 16 Desember 1949.\nPada saat didirikan, Universitas Gadjah Mada hanya memiliki enam fakultas, dan pada saat ini telah memiliki 18 fakultas dan dua sekolah yaitu Sekolah Vokasi dan Sekolah Pascasarjana. Fakultas-fakultas yang ada di UGM dibagi lagi menjadi departemen-departemen, yang kemudian membawahi program-program studi. Program-program studi yang ada di UGM meliputi program sarjana, magister, doktor, dan spesialis. UGM berkedudukan di bagian selatan Kabupaten Sleman, terletak di sebuah kawasan yang dikenal dengan nama Bulaksumur, yang secara administratif membentang dari Sinduadi, Mlati hingga Caturtunggal, Depok.</item>
+        <item>Institut Teknologi Bandung (disingkat ITB, aksara Sunda: ᮄᮔ᮪ᮞ᮪ᮒᮤᮒᮥᮒ᮪ ᮒᮦᮊ᮪ᮔᮧᮜᮧᮌᮤ ᮘᮔ᮪ᮓᮥᮀ) adalah sebuah perguruan tinggi negeri yang terletak di Kota Bandung, Jawa Barat. Nama ITB diresmikan pada tanggal 2 Maret 1959. Sejak tanggal 14 Oktober 2013 ITB menjadi Perguruan Tinggi Negeri Badan Hukum (PTN BH) yang memiliki otonomi pengelolaan dalam akademik dan nonakademik. ITB telah memiliki 27 program studi yang terakreditasi secara internasional (sebelas dari ABET, sebelas dari ASIIN).\nKampus utama ITB saat ini merupakan lokasi dari sekolah tinggi teknik pertama di Indonesia sekaligus lembaga pendidikan tinggi pertama di Hindia Belanda. Walaupun masing-masing institusi pendidikan tinggi yang mengawali ITB memiliki karakteristik dan misi masing-masing, semuanya memberikan pengaruh dalam perkembangan yang menuju pada pendirian ITB.</item>
+        <item>Universitas Hasanuddin, yang kemudian disingkat UNHAS, merupakan sebuah perguruan tinggi negeri di kota Makassar, Provinsi Sulawesi, Indonesia, yang berdiri pada 10 September 1956. Perguruan tinggi ini semula merupakan pengembangan dari Fakultas Ekonomi Universitas Indonesia ketika Bung Hatta masih menjadi Wakil Presiden. Kampus Unhas semula dibangun di Baraya atau Kampus Barayya.\nKini Kampus Unhas menempati areal seluas 220 hektare di Tamalanrea dengan berbagai fasilitas. Sejak tahun 2022, terdapat 16 fakultas di Universitas Hasanuddin. Saat ini telah dikembangkan dan beroperasi, kampus baru Unhas yang dikhususkan untuk Fakultas Teknik, yang terletak di bekas pabrik kertas di Kabupaten Gowa. Kampus baru ini mulai dipergunakan sejak tahun 2006 walaupun masih dalam tahap renovasi dan pembangunan gedung dan pengadaan fasilitas.</item>
+        <item>Universitas Padjadjaran (disingkat Unpad, Aksara Sunda Baku: ᮅᮔᮤᮗᮨᮁᮞᮤᮒᮞ᮪ ᮕᮏᮏᮛᮔ᮪) adalah sebuah perguruan tinggi negeri di Jawa Barat, Indonesia. Kampus utama Unpad, terutama untuk Program Sarjana, berada di Jatinangor, Kabupaten Sumedang, Jawa Barat. Sejak 20 Oktober 2014, status universitas berubah menjadi Perguruan Tinggi Negeri Badan Hukum (PTN BH) dari sebelumnya berstatus Badan Layanan Umum (BLU). Berdasarkan Keputusan Badan Akreditasi Nasional Perguruan Tinggi (BAN PT) tertanggal 16 Januari 2014, Unpad mendapat peringkat A (sangat baik).\nPemilihan nama "Padjadjaran" yang digunakan diambil dari nama ibukota Kerajaan Sunda, yaitu Pakuan Pajajaran. Nama ini adalah nama yang paling terkenal dan dikenang oleh masyarakat Sunda, karena kemasyhuran sosoknya di antara raja-raja yang ada di tatar Sunda pada masa itu.</item>
+        <item>Universitas Airlangga (disingkat Unair atau UA) adalah sebuah perguruan tinggi negeri yang terletak di Surabaya, Jawa Timur. Universitas ini didirikan pada tanggal 10 November 1954 bertepatan dengan hari pahlawan yang ke-9. Berdasarkan peringkat dari QS World University Ranking 2024, Universitas Airlangga menduduki peringkat keempat sebagai perguruan tinggi terbaik di Indonesia.\nNama "Airlangga" diambil dari nama raja yang memerintah Jawa Timur pada tahun 1019 hingga tahun 1042 yaitu Rake Halu Sri Lokeswara Dharmawangsa Airlangga Anantawikramattungadewa atau dikenal dengan nama Prabu Airlangga. Simbol Universitas Airlangga adalah "Garuda Mukti" dengan penunggang Batara Wisnu yang membawa guci berisikan air “amerta” yakni air kehidupan abadi. Simbol ini melambangkan Universitas Airlangga sebagai sumber ilmu yang senantiasa kekal.</item>
+        <item>Universitas Sebelas Maret (disebut UNS) adalah sebuah perguruan tinggi negeri di Indonesia yang berada di Kentingan, Jebres, Kota Surakarta. Universitas Sebelas Maret menyediakan berbagai program pendidikan mulai dari jenjang vokasi, sarjana, magister, dan doktoral. Hingga kini, terdapat empat belas fakultas dan dua sekolah yang berada di dalam lingkungan Universitas Sebelas Maret.\nPada tanggal 11 Maret 1976, dengan dibacanya Surat Keputusan Presiden Republik Indonesia tentang pembukaan Universitas Negeri Surakarta Sebelas Maret, maka universitas ini resmi berdiri sebagai perguruan tinggi negeri di Surakarta.Cikal bakal pendirian UNS dapat dirunut jejaknya sejak 1950-an.</item>
+        <item>Universitas Brawijaya (UB)  adalah perguruan tinggi negeri di Indonesia yang berdiri pada tahun 1963 di Kota Malang, Jawa Timur melalui Ketetapan Menteri Pendidikan dan Ilmu Pengetahuan no.1 tanggal 5 Januari 1963. Tanggal tersebut kemudian ditetapkan sebagai Dies Natalis UB. Nama Brawijaya diberikan khusus oleh Presiden Soekarno dengan harapan mampu gemilang seperti Raden Wijaya (Brawijaya I) selaku pendiri Kerajaan Majapahit sekaligus menjadi kampus kebanggaan bangsa Indonesia.\nUB memiliki empat kampus. Kampus utama terletak di sebelah barat Kota Malang (Jl. Veteran), dan kampus kedua terletak di Puncak Dieng atau dikenal sebagai UB Dieng yang digunakan untuk fasilitas olahraga outdoor, dan beberapa fasilitas riset maupun perkuliahan. Sedangkan kampus ketiga berada di Kota Kediri (Jl. Pringgodani) dan kampus keempat berada di Ibu Kota Jakarta, Indonesia.</item>
+        <item>Universitas Negeri Semarang (disingkat UNNES, bahasa Jawa: Universitas Nagari Semarang) adalah salah satu Perguruan Tinggi Negeri (PTN) di Indonesia yang kini dipimpin Rektor Prof. Dr. S. Martono, M.Si. UNNES merupakan salah satu perguruan tinggi eks-IKIP yang statusnya meningkat menjadi Universitas. Kampus utamanya terletak di daerah Sekaran (Gunungpati), wilayah selatan Kota Semarang, Jawa Tengah. Dan kampus lainnya terletak di Ngaliyan (Semarang), Kelud (Semarang), Bendan Ngisor (Semarang) dan di Kemandungan, Tegal. UNNES pada tanggal 20 Oktober 2022 telah menjadi Perguruan Tinggi Negeri Badan Hukum (PTN-BH) berdasarkan Peraturan Pemerintah Republik Indonesia No. 36 Tahun 2022 tertanggal 20 Oktober 2022 yang ditandatangani langsung oleh Presiden Republik Indonesia Ir. Joko Widodo.</item>
+        <item>Institut Teknologi Sepuluh Nopember (disingkat ITS) adalah perguruan tinggi negeri yang terletak di Surabaya, Jawa Timur. Pada awalnya, ITS didirikan oleh Yayasan Perguruan Tinggi Teknik (YPTT) yang diketuai oleh dr. Angka Nitisastro pada 10 November 1957. Dalam visi awal, ITS ditujukan untuk mendidik para pemimpin yang unggul di bidang sains dan teknologi, untuk mengangkat Republik Indonesia menjadi negara berperadaban maju dan tinggi.\nKampus ITS Sukolilo menempati lahan seluas 180 hektar, dengan luas bangunan seluruhnya kurang lebih 150.000 m2. Selain itu terdapat Kampus Manyar yang dipergunakan oleh Program D-3 dan D-4 Teknik Sipil dengan luas bangunan 5.176 m2 dan Kampus ITS Cokroaminoto yang dipergunakan untuk magister manajemen serta beberapa lembaga kerja sama dengan luas bangunan 4.000 m2.</item>
+        <item>Universitas Muhammadiyah Surakarta (UMS) merupakan satu dari 164 Perguruan Tinggi Muhammadiyah (PTM) dan satu di antara 1.890 Perguruan Tinggi Swasta (PTS) di Indonesia. UMS terletak di Kecamatan Kartasura, Kabupaten Sukoharjo. Universitas ini memiliki tujuan dan berfokus dalam bidang pendidikan budaya Islami dan ilmu pengetahuan serta keterampilan yang dilandasi nilai-nilai keislaman.\nSebelum menjadi UMS, secara kelembagaan UMS berasal dari Fakultas Keguruan dan Ilmu Pendidikan (FKIP) Universitas Muhammadiyah Jakarta cabang Surakarta yang didirikan pada tahun 1957. Para perintisnya antara lain Sudalmiyah Suhud Rais, Radjab Bulan Hadipurnomo, Muhammad Syafa’at Habib, Sulastri Gito Atmodjo, dan KH Syahlan Rosyidi.</item>
+        <item>Universitas Telkom atau Telkom University (Tel-U) adalah sebuah perguruan tinggi swasta milik BUMN yang terletak di Bandung, Jawa Barat. Berdiri pada 14 Agustus 2013 dari penggabungan empat perguruan tinggi Yayasan Pendidikan Telkom, yaitu Institut Teknologi Telkom, Institut Manajemen Telkom, Politeknik Telkom, dan STISI Telkom, Tel-U merupakan salah satu perguruan tinggi swasta yang pertama meraih akreditasi Unggul dengan beberapa kali menempati gelar Perguruan Tinggi Swasta Terbaik di Indonesia serta merupakan salah satu Perguruan Tinggi Terbaik di Indonesia.</item>
+        <item>Institut Pertanian Bogor (nama bahasa Inggris: IPB University, sebelumnya Bogor Agricultural University; aksara Sunda: ᮄᮔ᮪ᮞ᮪ᮒᮤᮒᮥᮒ᮪ ᮕᮨᮁᮒᮔᮤᮃᮔ᮪ ᮘᮧᮌᮧᮁ) merupakan Perguruan Tinggi Negeri yang berlokasi di Bogor, Jawa Barat. IPB awalnya merupakan fakultas pertanian dari Universitas Indonesia. Namun, pada 1 September 1963, IPB lepas dari Universitas Indonesia dan berdiri menjadi sebuah institut pertanian.\nPada tanggal 7 November 2017 lalu Institut Pertanian Bogor (IPB) resmi mendapatkan status akreditasi dengan peringkat A (sangat baik) berdasarkan hasil rapat pleno Badan Akreditasi Nasional Perguruan Tinggi. Berdasarkan hasil penilaian Business Innovation Center Kementerian Riset, Teknologi dan Pendidikan Tinggi RI, IPB menjadi perguruan tinggi di Indonesia yang paling banyak melakukan inovasi dalam Inovasi Indonesia paling Prospektif (sebanyak 39,71 persen) selama sepuluh tahun berturut–turut (2008–2018). </item>
+        <item>Universitas Diponegoro disingkat sebagai UNDIP (bahasa Jawa: Universitas Diponagara) adalah sebuah perguruan tinggi negeri di Indonesia yang berlokasi di Semarang, Jawa Tengah, Indonesia. Kampus utama Undip terletak di daerah Tembalang, dan kampus utama lainnya terletak di daerah Pleburan. UNDIP didirikan pada tanggal 9 Januari 1957 sebagai Perguruan Tinggi Swasta dan baru mendapat status sebagai Perguruan Tinggi Negeri pada tanggal 9 Januari 1960. Kata Diponegoro diambil dari Pangeran Diponegoro. Berdasarkan Peraturan Pemerintah Nomor 52 Tahun 2015, UNDIP ditetapkan statusnya menjadi Perguruan Tinggi Negeri Badan Hukum.</item>
+        <item>Universitas Tarumanagara adalah salah satu universitas swasta tertua yang berada di Jakarta, Indonesia. Nama universitas ini berasal dari nama kerajaan Tarumanagara. Universitas ini berdiri pada tanggal 1 Oktober 1959 dengan ditandai berdirinya "Perguruan Tinggi Ekonomi Tarumanagara" di bawah naungan "Yayasan Tarumanagara" yang berdiri pada tanggal 18 Juni 1959.\nPemikiran pertama untuk mendirikan suatu perguruan tinggi dicetuskan pada tahun 1957 oleh sekelompok sosiawan di lingkungan Perhimpunan Sosial Candra Naya yang pada waktu itu masih bernama Sin Ming Hui.Atas prakarsa Drs. Kwee Hwat Djien, pada tanggal 18 Juni 1959, mereka menyepakati untuk mendirikan suatu yayasan yang diberi nama Yayasan Tarumanagara yang kemudian dikukuhkan berdirinya melalui Akta Notaris E. Pondaag nomor 54 tanggal 11 September 1959.</item>
+    </string-array>
+
+
+    <integer-array name="data_img">
+        <item>@drawable/ui</item>
+        <item>@drawable/ugm</item>
+        <item>@drawable/itb</item>
+        <item>@drawable/unhas</item>
+        <item>@drawable/unpad</item>
+        <item>@drawable/unair</item>
+        <item>@drawable/uns</item>
+        <item>@drawable/ub</item>
+        <item>@drawable/unnes</item>
+        <item>@drawable/its</item>
+        <item>@drawable/ums</item>
+        <item>@drawable/tel_u</item>
+        <item>@drawable/ipb</item>
+        <item>@drawable/undip</item>
+        <item>@drawable/untar</item>
+    </integer-array>
+
+    <!-- Data Web -->
+    <string-array name="data_web">
+        <item>https://www.ui.ac.id/</item>
+        <item>https://ugm.ac.id/id/</item>
+        <item>https://www.itb.ac.id/</item>
+        <item>https://www.unhas.ac.id/</item>
+        <item>https://www.unpad.ac.id/</item>
+        <item>https://unair.ac.id/</item>
+        <item>https://uns.ac.id/id/</item>
+        <item>https://www.ub.ac.id/id/</item>
+        <item>https://unnes.ac.id/beranda/</item>
+        <item>https://www.its.ac.id/id/beranda/</item>
+        <item>https://www.ums.ac.id/en</item>
+        <item>https://telkomuniversity.ac.id/</item>
+        <item>https://www.ipb.ac.id/</item>
+        <item>https://www.undip.ac.id/</item>
+        <item>https://untar.ac.id/</item>
+    </string-array>
+
+    <!-- Data Wiki -->
+    <string-array name="data_wiki">
+        <item>https://id.wikipedia.org/wiki/Universitas_Indonesia</item>
+        <item>https://id.wikipedia.org/wiki/Universitas_Gadjah_Mada</item>
+        <item>https://id.wikipedia.org/wiki/Institut_Teknologi_Bandung</item>
+        <item>https://id.wikipedia.org/wiki/Universitas_Hasanuddin</item>
+        <item>https://id.wikipedia.org/wiki/Universitas_Padjadjaran</item>
+        <item>https://id.wikipedia.org/wiki/Universitas_Airlangga</item>
+        <item>https://id.wikipedia.org/wiki/Universitas_Sebelas_Maret</item>
+        <item>https://id.wikipedia.org/wiki/Universitas_Brawijaya</item>
+        <item>https://id.wikipedia.org/wiki/Universitas_Negeri_Semarang</item>
+        <item>https://id.wikipedia.org/wiki/Institut_Teknologi_Sepuluh_Nopember</item>
+        <item>https://id.wikipedia.org/wiki/Universitas_Muhammadiyah_Surakarta</item>
+        <item>https://id.wikipedia.org/wiki/Universitas_Telkom</item>
+        <item>https://id.wikipedia.org/wiki/Institut_Pertanian_Bogor</item>
+        <item>https://id.wikipedia.org/wiki/Universitas_Diponegoro</item>
+        <item>https://id.wikipedia.org/wiki/Universitas_Tarumanagara</item>
+    </string-array>
+
+    <!-- Data Maps -->
+    <string-array name="data_maps">
+        <item>https://maps.app.goo.gl/ooyfxV6FC5mG8yNL7</item>
+        <item>https://maps.app.goo.gl/HbiMX7oMQoeUQUY89</item>
+        <item>https://maps.app.goo.gl/2KCm18kWiKdS2Udv7</item>
+        <item>https://maps.app.goo.gl/X9PGiuBL9fJuggVg7</item>
+        <item>https://maps.app.goo.gl/HRn9qfdACnwf5pgj7</item>
+        <item>https://maps.app.goo.gl/Z5hicrDArfJUXTiN6</item>
+        <item>https://maps.app.goo.gl/iyrEY7eFS1cNdRUn7</item>
+        <item>https://maps.app.goo.gl/PgM7ftM4GQXrZosK9</item>
+        <item>https://maps.app.goo.gl/dSwjzivaaxyeB4Q88</item>
+        <item>https://maps.app.goo.gl/49hyR6TCgogdzWu56</item>
+        <item>https://maps.app.goo.gl/FZDBvdcyscnHRneM7</item>
+        <item>https://maps.app.goo.gl/MpCVnLc4CHfA3cRa6</item>
+        <item>https://maps.app.goo.gl/RK7yK55Kb2qaDvu48</item>
+        <item>https://maps.app.goo.gl/Ji2BRAGj87P7AfiC8</item>
+        <item>https://maps.app.goo.gl/nCAqGkcq1UE1MEdx8</item>
+    </string-array>
+
+</resources>
